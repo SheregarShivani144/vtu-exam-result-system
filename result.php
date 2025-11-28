@@ -39,4 +39,5 @@ echo "<h3>Marks</h3>";
 foreach ($student['marks'] as $sub => $mark) {
     echo "$sub : $mark <br>";
 }
+//Updated for assignment
 ?>
