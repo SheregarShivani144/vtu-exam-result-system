@@ -1,5 +1,5 @@
 # VTU Examination Result System (Simple Prototype)
-
+This project is part of assignment.
 This is a simple VTU Result lookup system created for assignment.
 
 ## Files included
