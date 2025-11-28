@@ -40,4 +40,5 @@ foreach ($student['marks'] as $sub => $mark) {
     echo "$sub : $mark <br>";
 }
 //Updated for assignment
+//Commit 4
 ?>
